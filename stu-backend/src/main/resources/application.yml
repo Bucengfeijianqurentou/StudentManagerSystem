@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: stu-backend
+
+server:
+  port: 8888
